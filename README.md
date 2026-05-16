@@ -274,19 +274,19 @@ The analytics workflow performs:
 
 ## Clinic Utilization Timeline
 
-![Clinic Utilization Timeline](CLINIC%20UTILIZATION%20TIMELINE.png)
+![Clinic Utilization Timeline](images/clinic-utilization-timeline.png)
 
 ---
 
 ## No-Show Heatmap Visualization
 
-![No Show Heatmap](NO-SHOW%20HEATMAP%20VISUALIZATION.png)
+![No Show Heatmap](images/no-show-heatmap-visualization.png)
 
 ---
 
 ## Scheduled vs Actual Duration Analysis
 
-![Scheduled vs Actual Duration](SCHEDULED%20VS%20ACTUAL%20DURATION%20ANALYSIS.png)
+![Scheduled vs Actual Duration](images/scheduled-vs-actual-duration-analysis.png)
 
 ---
 
